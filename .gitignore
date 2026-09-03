@@ -22,3 +22,5 @@ lib*.a
 /.direnv/
 
 *.code-workspace
+config.bat
+node_modules
